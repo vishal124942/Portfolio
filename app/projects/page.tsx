@@ -54,9 +54,6 @@ const allTags = [
   "Vector Search",
   "FAISS",
   "Web3",
-  "Blockchain",
-  "Wallet",
-  "Ethers.js",
   "React",
   "Python",
 ];

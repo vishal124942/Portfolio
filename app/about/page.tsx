@@ -86,7 +86,7 @@ export default function AboutPage() {
             <div className="flex justify-center">
               <div className="bg-[#90c695] border-4 border-black rounded-3xl p-4 shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=400&width=400"
+                  src="/photo.jpeg?height=400&width=400"
                   alt="Vishal Verma"
                   width={400}
                   height={400}
@@ -127,7 +127,6 @@ export default function AboutPage() {
           </div>
         </div>
 
-       
         {/* CTA */}
         <div className="bg-[#e8d5b7] rounded-3xl border-4 border-black shadow-lg p-8 text-center">
           <h2 className="font-display text-3xl text-[#d4a574] mb-4">

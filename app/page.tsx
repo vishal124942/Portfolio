@@ -122,7 +122,7 @@ export default function HomePage() {
               <div className="flex justify-center">
                 <div className="bg-[#90c695] border-4 border-black rounded-3xl p-4 shadow-lg">
                   <Image
-                    src="/placeholder.svg?height=300&width=300"
+                    src="/photo.jpeg?height=300&width=300"
                     alt="Vishal Verma"
                     width={300}
                     height={300}

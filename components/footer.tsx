@@ -12,7 +12,7 @@ export default function Footer() {
               VISHAL VERMA
             </h3>
             <p className="font-bold-display text-black">
-              AI/ML Engineer building products that ship
+              Full Stack Developer building products that ship
             </p>
           </div>
 
