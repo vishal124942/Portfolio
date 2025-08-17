@@ -135,7 +135,7 @@ export default function HomePage() {
                   </div>
                   <div className="flex items-center space-x-3">
                     <Trophy className="text-[#f4a460]" size={24} />
-                    <span>Focused on shipping: MLOps, RAG, Web3</span>
+                    <span>Focused on shipping: Full Stack AI/ML Projects</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Users className="text-[#f4a460]" size={24} />
