@@ -10,7 +10,7 @@ export async function GET() {
     return new NextResponse(buf, {
       headers: {
         "Content-Type": "application/pdf",
-        "Content-Disposition": 'attachment; filename="Vishal_Verma_Resume.pdf"',
+        "Content-Disposition": 'attachment; filename="Resume.pdf"',
       },
     });
   } catch {
