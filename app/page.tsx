@@ -101,12 +101,6 @@ export default function HomePage() {
                   >
                     VIEW LIVE
                   </Link>
-                  <Link
-                    href={`/projects/${project.slug}`}
-                    className="bg-[#87ceeb] border-2 border-black rounded-full px-4 py-2 font-bold-display text-sm hover:scale-105 transition-transform"
-                  >
-                    VIEW DETAILS
-                  </Link>
                 </div>
               </div>
             ))}
